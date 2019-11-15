@@ -8,7 +8,6 @@ Short recruitment task
 
 - clone this repository
 - run `composer install` command
-- run `npm install` command
 - copy `.env.example` file as `.env` (`cp .env.example .env`)
 - configure `DB_` prefixed constants and `OWM_API_KEY`
 - run `php artisan key:generate` command
