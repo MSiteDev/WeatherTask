@@ -11,6 +11,7 @@ Short recruitment task
 - run `npm install` command
 - copy `.env.example` file as `.env` (`cp .env.example .env`)
 - configure `DB_` prefixed constants and `OWM_API_KEY`
+- run `php artisan key:generate` command
 - run `php artisan migrate` command
 - run `php artisan serve` or setup any web server(etc. nginx)
 

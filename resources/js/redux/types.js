@@ -1,0 +1,4 @@
+export const FIND_CITY = 'FIND_CITY';
+export const SEARCH_SUCCESS = 'SEARCH_SUCCESS';
+export const FINDING_SUCCESS = 'FINDING_SUCCESS';
+export const FINDING_FAILED = 'FINDING_FAILED';
